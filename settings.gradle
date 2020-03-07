@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='praktek modul 6 intens'
